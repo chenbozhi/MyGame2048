@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/continue_button_menuACT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/continue_game" />
+
+    <Button
+        android:id="@+id/restart_button_menuACT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/restart_game" />
+    <Button
+        android:id="@+id/sound_button_menuACT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sound_music" />
+
+    <Button
+        android:id="@+id/bg_button_menuACT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bg_music" />
+</LinearLayout>

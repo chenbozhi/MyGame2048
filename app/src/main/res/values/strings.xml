@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score">得分：</string>
+    <string name="bestScore">最高分：</string>
+    <string name="cancel">撤销</string>
+    <string name="menu">菜单</string>
+    <string name="continue_game">继续游戏</string>
+    <string name="restart_game">重新开始</string>
+    <string name="sound_music">游戏音效(开)</string>
+    <string name="bg_music">背景音乐(开)</string>
+</resources>
